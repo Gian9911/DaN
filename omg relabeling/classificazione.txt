@@ -1,0 +1,14 @@
+Numero,Emozioni,PleasureMean,PleasureSd,ArousalMean,ArousalSd
+3,joy,0.78,0.24,0.50,0.28
+6,surprise,0.40,0.30,0.67,0.27
+2,Fear,-0.63,0.21,0.70,0.42
+4,Neutral,0.00,0.44,0.00,0.32
+0,Anger,-0.50,0.26,0.65,0.35
+5,sad,-0.63,0.23,-0.27,0.34
+1,disgust,-0.60,0.20,0.35,0.41
+2,nervousnessAnxious,0.01,0.45,0.59,0.31
+3,laugther-excited,0.62,0.25,0.75,0.20
+5,shy,-0.15,0.33,0.06,0.30
+3,relief,0.68,0.30,-0.46,0.38
+4,confused,-0.53,0.20,0.27,0.29
+0,irritated,-0.58,0.16,0.40,0.37

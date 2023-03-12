@@ -1,0 +1,12 @@
+Numero,Emozioni,PleasureMean,Pleasuresd,ArousalMean,Arousalsd
+3,Joy,0.78,0.24,0.50,0.28
+6,Surprise,0.40,0.30,0.67,0.27
+0,Anger,-0.50,0.26,0.65,0.35
+5,Sadness,-0.63,0.23,-0.27,0.34
+2,Fear,-0.63,0.21,0.70,0.42
+4,Neutral,0.00,0.44,0.00,0.32
+0,Irritability,-0.58,0.16,0.40,0.37 #CHIEDERE SE SI PUO' RIMUOVERE
+1,Disgust,-0.60,0.20,0.35,0.41 #CHIEDERE SE SI PUO' RIMUOVERE
+5,Shame,-0.57,0.23,0.01,0.46
+3,Relief,0.50,0.5,-0.5,0.5
+0,Comtempt,-0.23,0.39,0.31,0.33 --> DISPREZZO
